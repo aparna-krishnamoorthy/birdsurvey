@@ -1,5 +1,6 @@
 # script to anazlyse bird counts r
 
+Analyze bird data
 
 strsplit('Hello,world',',') 
 strsplit('Hello,,,world',',') 
